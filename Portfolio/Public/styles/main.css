@@ -33,10 +33,6 @@ h3 {
     color:var(--myBlue);
 }
 
-#resume >h1,h2,h3{
-    color:var(#000);
-}
-
 a{
     color:var(--myBlue);
     text-decoration-color:var(--myYellow);
