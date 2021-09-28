@@ -36,6 +36,7 @@ h3 {
 a{
     color:var(--myBlue);
     text-decoration-color:var(--myYellow);
+    font-weight: bold;
 }
 
 a:hover{
@@ -89,6 +90,7 @@ main {
 
 footer {
     grid-area: foot;
+    font-size: 15px;
 }
 
 header,
