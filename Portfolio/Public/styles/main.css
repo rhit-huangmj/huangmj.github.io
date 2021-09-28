@@ -122,6 +122,13 @@ body#portfolio ul#portfolioItems li img {
     max-width: 100%;
 }
 
+#darkModeButton{
+    background-color: black;
+    color:white;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Raleway', sans-serif;
+}
 @media screen and (min-width: 700px){
     body#portfolio ul#portfolioItems li {
         flex-basis: 48%;
