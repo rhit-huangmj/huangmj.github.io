@@ -22,8 +22,6 @@ rhit.main = function () {
                     body.style.backgroundColor = "#8e9695";
                     body.style.backgroundImage = "url(http://www.transparenttextures.com/patterns/maze-black.png)";
                 }
-                // background-color: var(--myGray);
-                // background-image: url(http://www.transparenttextures.com/patterns/maze-black.png);
             }
         }
     }
